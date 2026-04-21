@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  task2
+
+  Created by анус on 4/15/26.
+  
+*/
+     
+"Kiev" = "Kiev";
+"Odessa" = "Odessa";
+"Minsk" = "Minsk";
+"Brest" = "Brest";
+"Warsaw" = "Warsaw";
+"Krakow" = "Krakow";
+
+"weather_report" = "In %@ it is %d°C now";
+"unknown_city" = "City not found";
+
+"hosp_kiev_addr" = "37 Bohdana Khmelnytskoho St, Kiev";
+"hosp_odessa_addr" = "2 Mariinska St, Odessa";
+"hosp_minsk_addr" = "64 Independence Ave, Minsk";
+"hosp_brest_addr" = "11 Laktionova St, Brest";
+"hosp_warsaw_addr" = "1a Stefana Banacha St, Warsaw";
+"hosp_krakow_addr" = "36 Kopernika St, Krakow";
