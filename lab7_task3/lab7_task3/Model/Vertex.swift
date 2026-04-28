@@ -1,0 +1,10 @@
+import simd
+
+struct Vertex {
+    var position: SIMD3<Float>
+    var color: SIMD4<Float>
+}
+
+struct Uniforms {
+    var modelViewProjectionMatrix: matrix_float4x4
+}
