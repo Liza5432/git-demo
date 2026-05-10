@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Далее"; ObjectID = "DRK-9n-KB1"; */
+"DRK-9n-KB1.normalTitle" = "Далее";
+
+/* Class = "UITextField"; placeholder = "Логин"; ObjectID = "UjE-AF-P0i"; */
+"UjE-AF-P0i.placeholder" = "Логин";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "jeu-mN-sLX"; */
+"jeu-mN-sLX.placeholder" = "Пароль";
